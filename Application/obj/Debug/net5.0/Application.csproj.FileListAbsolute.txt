@@ -1,0 +1,58 @@
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.deps.json
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.dll
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\ref\Application.dll
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.pdb
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\Domain.dll
+D:\Elevat Project\Elevat\Application\bin\Debug\net5.0\Domain.pdb
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.dll
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.pdb
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.deps.json
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.dll
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\ref\Application.dll
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\Application.pdb
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\Domain.dll
+D:\DEV\Elevat Project\Elevat\Application\bin\Debug\net5.0\Domain.pdb
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.dll
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\ref\Application.dll
+D:\DEV\Elevat Project\Elevat\Application\obj\Debug\net5.0\Application.pdb
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\Application.deps.json
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\Application.dll
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\ref\Application.dll
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\Application.pdb
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\Domain.dll
+D:\GIT REPO\CleanElevat\Application\bin\Debug\net5.0\Domain.pdb
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.dll
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\ref\Application.dll
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.pdb
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\Application.deps.json
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\Application.dll
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\Application.pdb
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\Domain.dll
+C:\Projects\CleanElevat\Application\bin\Debug\net5.0\Domain.pdb
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.dll
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Projects\CleanElevat\Application\obj\Debug\net5.0\Application.pdb
+D:\GIT REPO\CleanElevat\Application\obj\Debug\net5.0\Application.csproj.CopyComplete

@@ -1,0 +1,48 @@
+D:\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.dll
+D:\Elevat Project\Elevat\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.dll
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.pdb
+D:\DEV\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\DEV\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.dll
+D:\DEV\Elevat Project\Elevat\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\DEV\Elevat Project\Elevat\Domain\bin\Debug\net5.0\Domain.pdb
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.dll
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\DEV\Elevat Project\Elevat\Domain\obj\Debug\net5.0\Domain.pdb
+D:\GIT REPO\CleanElevat\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\GIT REPO\CleanElevat\Domain\bin\Debug\net5.0\Domain.dll
+D:\GIT REPO\CleanElevat\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\GIT REPO\CleanElevat\Domain\bin\Debug\net5.0\Domain.pdb
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.dll
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\GIT REPO\CleanElevat\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Projects\CleanElevat\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projects\CleanElevat\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projects\CleanElevat\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Projects\CleanElevat\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Projects\CleanElevat\Domain\obj\Debug\net5.0\Domain.pdb

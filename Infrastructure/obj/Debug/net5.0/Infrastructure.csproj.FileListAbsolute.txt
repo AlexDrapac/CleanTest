@@ -1,0 +1,75 @@
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\DEV\Elevat Project\Elevat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+D:\DEV\Elevat Project\Elevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\GIT REPO\CleanElevat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\GIT REPO\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Application.dll
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Application.pdb
+C:\Projects\CleanElevat\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Projects\CleanElevat\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache

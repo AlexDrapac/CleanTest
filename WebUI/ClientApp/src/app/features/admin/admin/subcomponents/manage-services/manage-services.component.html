@@ -1,0 +1,28 @@
+<div class="wrapper-dash">
+    <div class="container d-flex justify-content-center">
+        <div class="service-box-manage">
+            <div class="service" *ngFor="let service of services">
+                <div>{{service.name}}</div>
+                <div (click)="deleteService(service.id)" class="delete">X</div>
+            </div>
+            <button (click)="addService = !addService" class="add-service btn btn-primary">Add Service</button>
+        </div>
+        <div *ngIf="addService" class="service-box-manage">
+            <form [formGroup]="serviceGroup" (submit)="createNewService()">
+                <div class="mb-3">
+                    <label for="serviceName" class="form-label">Service Name</label>
+                    <input type="text" class="form-control" id="serviceName" formControlName="serviceName">
+                </div>  
+                <div class="mb-3">
+                    <label for="minutes" class="form-label">Minutes</label>
+                    <input type="text" class="form-control" id="minutes" formControlName="minutes">
+                </div>
+                <div class="mb-3">
+                    <label for="price" class="form-label">Price</label>
+                    <input type="text" class="form-control" id="price" formControlName="price">
+                </div>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </form>
+        </div>
+    </div>
+</div>

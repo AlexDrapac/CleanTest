@@ -1,0 +1,42 @@
+.wrapper-dash {
+    background: rgba(255, 255, 255, 0.685);
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+p {
+    color: white;
+}
+
+.service-box-manage {
+    background-color:rgba(0, 0, 0, 0.438);
+    width: 600px;
+    height: 600px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.service {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+form {
+    color: white;
+}
+
+.delete {
+    color: red;
+    cursor: pointer;
+}
+
+.add-service {
+    width: 100%;
+    margin-top: 20px;
+}
